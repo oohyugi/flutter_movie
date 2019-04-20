@@ -1,0 +1,102 @@
+[
+  {
+    "file": "tiers/premium/merged.web.home",
+    "title": "All"
+  },
+  {
+    "file": "contents/studios/merged.web.pemilu",
+    "title": "Pemilu 2019"
+  },
+  {
+    "file": "contents/studios/merged.web.magichour",
+    "title": "Magic Hour The Series"
+  },
+  {
+    "file": "contents/tv.top200",
+    "title": "TV"
+  },
+  {
+    "file": "contents/movies.top200",
+    "title": "Movies"
+  },
+  {
+    "file": "contents/movies.indonesian",
+    "title": "Indonesian"
+  },
+  {
+    "file": "contents/tv.korean",
+    "title": "Korean"
+  },
+  {
+    "file": "contents/movies.romance",
+    "title": "Romance"
+  },
+  {
+    "file": "contents/movies.drama",
+    "title": "Drama"
+  },
+  {
+    "file": "contents/movies.comedy",
+    "title": "Comedy"
+  },
+  {
+    "file": "contents/movies.horror",
+    "title": "Horror"
+  },
+  {
+    "file": "contents/movies.action",
+    "title": "Action"
+  },
+  {
+    "file": "contents/tv.anime",
+    "title": "Anime"
+  },
+  {
+    "file": "contents/movies.fantasy",
+    "title": "Fantasy"
+  },
+  {
+    "file": "contents/movies.news",
+    "title": "News"
+  },
+  {
+    "file": "contents/movies.crime",
+    "title": "Crime"
+  },
+  {
+    "file": "contents/movies.music",
+    "title": "Music"
+  },
+  {
+    "file": "contents/movies.family",
+    "title": "Family"
+  },
+  {
+    "file": "contents/tv.thriller",
+    "title": "Thriller"
+  },
+  {
+    "file": "contents/movies.reality",
+    "title": "Reality"
+  },
+  {
+    "file": "contents/movies.sci-fi",
+    "title": "Sci-fi"
+  },
+  {
+    "file": "contents/tv.lifestyle",
+    "title": "Lifestyle"
+  },
+  {
+    "file": "contents/movies.documentary",
+    "title": "Documentary"
+  },
+  {
+    "file": "contents/movies.sports",
+    "title": "Sports"
+  },
+  {
+    "file": "contents/studios/merged.web.bestofvip",
+    "title": "Best Of Vip"
+  }
+]
