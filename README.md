@@ -1,4 +1,4 @@
-# iflix_movie
+# flutter_movie
 
 A new Flutter application.
 
